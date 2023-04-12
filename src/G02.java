@@ -1,4 +1,7 @@
 public class G02 {
+    public static void main(String[] args) {
+        System.out.println("islem ekleyelim" );
+    }
 
     /*
     proje uzerinde
@@ -21,4 +24,7 @@ public class G02 {
 
     4- push edilir
      */
+
+
 }
+
