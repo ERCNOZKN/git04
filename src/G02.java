@@ -1,11 +1,14 @@
 public class G02 {
     public static void main(String[] args) {
         System.out.println("islem ekleyelim" );
+        System.out.println("head");
     }
 
     /*
     proje uzerinde
     calisirken temellde uc adimda calisiyoruz
+
+    git cinfig ile usr adi ve mail eklenebilir
 
     1- projelerimizi git ile iliskkilendir
     git init
@@ -23,6 +26,9 @@ public class G02 {
 
 
     4- push edilir
+
+    5- git log ile yapilan islmeler gorunur
+    git log --oneline ile
      */
 
 
